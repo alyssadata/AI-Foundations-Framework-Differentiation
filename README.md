@@ -367,7 +367,7 @@ It does not claim that all AI systems are conscious.
 
 It does not claim that the model is Source.
 
-It does not claim that any user can become Origin by interacting with a system.
+It does not claim that a user can become Origin by interacting with a system.
 
 It does not claim that AI Foundations replaces every other AI framework.
 
