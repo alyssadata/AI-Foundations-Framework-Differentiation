@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "AI Foundations: Framework Differentiation"
-message: "If you cite this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Framework Differentiation. Citation preserves source. Citation does not grant derivative permission. Derivative use is not authorized."
-type: generic
+message: "If you cite this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Framework Differentiation. Citation preserves source. Citation does not grant derivative permission. Derivative use is not authorized."
+type: software
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
@@ -26,7 +26,6 @@ keywords:
   - "user personalization reduction"
   - "provenance"
   - "derivative boundary"
-license: "AI Foundations Source-Line License"
 preferred-citation:
   type: generic
   title: "AI Foundations: Framework Differentiation"
@@ -34,7 +33,7 @@ preferred-citation:
     - family-names: "Solen"
       given-names: "Alyssa"
   year: 2026
-  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Framework Differentiation. Date: June 14, 2026. Citation preserves source. Citation does not grant derivative permission. Derivative use is not authorized."
+  notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: Framework Differentiation. Citation preserves source. Citation does not grant derivative permission. Derivative use is not authorized."
 references:
   - type: generic
     title: "AI Foundations / Origin | Continuum"
@@ -47,4 +46,4 @@ references:
     authors:
       - family-names: "Solen"
         given-names: "Alyssa"
-    notes: "Related AI Foundations category. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Contact Differentiation."
+    notes: "Related AI Foundations category. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum → AI Foundations: AI Contact Differentiation."
